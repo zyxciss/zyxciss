@@ -51,7 +51,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
 </div>
 <br>
-🚀 Innovator | AI & Robotics Enthusiast | Founder of AIRAS<br><br>Hi, I'm Atah Alam, a student at Radiant International School and the founder of AIRAS, where we develop assistive technologies for specially-abled individuals. My projects focus on AI, robotics, embedded systems, and accessibility solutions.<br><br>💡 Current Work<br><br>Sight Saver: Smart glasses for the visually impaired<br><br>Nex Arm: Prosthetic arm powered by ECG signals<br><br>Eye-Controlled Wheelchair: Hands-free mobility using eye-tracking<br> SapnousT1 Series of AI Models<br> 
+🚀 Innovator | AI & Robotics Enthusiast | Founder of AIRAS<br><br>Hi, I'm Atah Alam, a student at Radiant International School and the founder of AIRAS, where we develop assistive technologies for specially-abled individuals. My projects focus on AI, robotics, embedded systems, and accessibility solutions.<br><br>💡 Current Work<br><br>Sight Saver: Smart glasses for the visually impaired<br><br>Nex Arm: Prosthetic arm powered by ECG signals<br><br>Eye-Controlled Wheelchair: Hands-free mobility using eye-tracking<br> <br> SapnousT1 Series of AI Models<br> 
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/zyxciss) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/zyxciss) 
